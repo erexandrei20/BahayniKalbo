@@ -105,10 +105,10 @@
     margin-bottom: 2em;
   }
   .menu-section h2 {
-    border-bottom: 2px solid #8B0000;
+    border-bottom: 2px solid #37a2cd;
     padding-bottom: 0.5em;
     margin-bottom: 1em;
-    color: #8B0000;
+    color: #37acde;
   }
   .menu-section ul {
     list-style: none;
@@ -125,7 +125,7 @@
   }
   .menu-section .price {
     float: right;
-    color: #8B0000;
+    color: #4283fb;
   }
   
   
